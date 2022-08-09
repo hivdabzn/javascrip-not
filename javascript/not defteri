@@ -1,0 +1,113 @@
+// let serverName;
+// serverName="https://kodluyoruz.org"
+// console.log(serverName)
+
+// let fullName = "hivda bozan";
+// fullName = "hivda bjhkmjyhg"
+// console.log(fullName)
+
+// let info ="what is your name"
+// console.log(info)
+ 
+
+//   let price=100
+//   let tax=0.18
+//   let priceTax=price * tax
+//   console.log("Fiyat:" ,price , "KDV oranı:" , tax , "KDV tutarı: " , priceTax)
+//    let counter= 320
+//    counter=counter+1
+//    counter+=1
+//    counter--;
+//    counter*=10;
+//    counter/=2;
+//    console.log((2+ 3)*10)
+//    console.log(counter)
+//  let stringNumber="11"
+//  console.log(stringNumber)
+//  let newNumber = Number(stringNumber)
+//  console.log(newNumber) 
+
+//  let isActive=false
+//  isActive= true
+//  console.log(isActive)
+
+//   let Price = 111
+//   let stringPrice="111"
+//   let hasPassword= true
+//   console.log(
+//     "Price: " ,
+//     typeof(Price)
+//     )
+ 
+//  console.log(
+//     "stringPrice: " ,
+//     typeof(stringPrice)
+//     )
+//     console.log(
+//     "hasPassword: " ,
+//     typeof(hasPassword)
+//     )
+
+//     let number1= "11"
+//     number1=parseInt(number1)
+//     console.log("number1:" , number1 , typeof(number1) )
+
+//  let number2= "11px"
+//     number2=parseInt(number2)
+//     console.log("number2:" , number2 , typeof(number2))
+
+
+//      let number3= "11.1"
+//     number3=Number(number3)
+//     console.log("number3:" , number3 , typeof(number3))
+
+//      let number4= "11.411px"
+//     number4=parseFloat(number4)
+//     console.log("number4:" , number4, typeof(number4))
+
+
+// let username= "hivda"
+// const DOMAIN = "kodluyoruz.org" 
+// let email = username + "@" + DOMAIN
+// console.log("Merhaba" , username ,"Sitemize hosgeldin", "mail adresin:", email)
+
+// let İnfo = `
+// Merhaba ${username} sitemize hoşgeldin..
+//  mail adresin: ${email}
+
+// mail adresini nuzunluğu: ${email.length}
+// borcunuz: ${(2+3)*10} TL
+// günün saat bilgisi: ${new Date().getHours()}
+// ` 
+// console.log(İnfo)
+
+
+// console.log(document.location.hostname)
+
+// console.log(document.head)
+// console.log(document.body)
+
+// console.log(document.URL)
+//console.log(document.baseURI)
+
+// document.body.style.backgroundColor="aqua"
+
+// let h2=document.getElementsByTagName(`h2`)
+// console.log(h2.title.innerHTM)
+
+
+// let title=document.getElementsByTagName(`title`)
+// title.İnnerHTML= "değişen bilgi"
+// console.log(title.innerHTML)
+
+// let link =document.querySelector("ul#List>li>a")
+// console.log(link.innerHTML)
+
+// let  fullName=prompt( "Lütfen Adınızı Giriniz:" )
+// console.log(fullName)
+
+// let item =document.querySelector("ul#list>li:last-child")
+// console.log(item)
+// let item =document.querySelector("ul#list>li:last-child")
+// item.innerHTML="son öğe değişti.."
+
